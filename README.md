@@ -1,2 +1,2 @@
 # Void-cms
-Full customizable CMS
+>Full RESTApi customizable CMS.
