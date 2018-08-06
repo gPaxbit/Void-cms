@@ -1,2 +1,2 @@
 # Void-cms
->Full RESTApi customizable CMS.
+>RESTful API, clean, customizable CMS.
